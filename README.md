@@ -50,6 +50,6 @@
   
 
 -----
-Credits: [Mthu042](https://github.com/Mathue042)
+Credits: [Mthu042](https://github.com/Mthu042)
 
 Last Edited on: 14/09/2021
